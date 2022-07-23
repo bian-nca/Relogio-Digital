@@ -5,4 +5,5 @@
   
   • Vídeo como base: https://www.youtube.com/watch?v=GK0ok3ZCXwM
 
-  • <img src="PRINTSCREEN.png">
+  • Uma exibição de como o projeto ficou: 
+  <img src="exibição.png">
