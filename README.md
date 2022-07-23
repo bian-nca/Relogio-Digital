@@ -5,5 +5,6 @@
   
   • Vídeo como base: https://www.youtube.com/watch?v=GK0ok3ZCXwM
 
+  • Projeto no github pages: https://bian-nca.github.io/Relogio-Digital/
   • Uma exibição de como o projeto ficou: 
   <img src="exibição.png">
